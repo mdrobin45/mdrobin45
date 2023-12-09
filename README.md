@@ -9,7 +9,7 @@
 </p>
 <br>
 	
-## <picture><img src = "https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 <div align="center">
@@ -34,5 +34,31 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/expressjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Express Js
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/mongodb-icon.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/firebase.svg" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/git-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+   </td>
   </tr>
 </table>
