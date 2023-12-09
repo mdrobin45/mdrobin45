@@ -19,11 +19,12 @@
   <!-- <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My GitHub Stats</b>
+## <b> My GitHub Stats</b>
 
 <div>
 <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
-<a align="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
+
+<br>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
