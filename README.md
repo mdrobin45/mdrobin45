@@ -11,15 +11,16 @@
 	
 ## <picture><img src = "https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/about_me.gif" width = 50px></picture> **About me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
+<div display="flex" justify-items="center">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p>
 Hello, I'm Robin. Currently seeking a job or internship as Full stack developer. My main goal is to be a senior developer next 3 years. I've been exploring MERN technology about 1 year. As a person I can work long time at a glance. I'm having exploring new technology like NEXT JS. I'm eger to learn AWS, TypeScript, Redux and other backend technology in 1 year.
 </p>
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
