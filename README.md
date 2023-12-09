@@ -22,6 +22,8 @@
 
 <div>
 <a align="left" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrobin45&show_icons=true&theme=dark&locale=en&layout=compact" alt="robin" /></p>
 <br>
 
 </div>
