@@ -12,13 +12,12 @@
 ## <picture><img src = "https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<p align="center">
-  Hello, I'm Robin. Currently seeking a job or internship as a Full-stack developer. My main goal is to be a senior developer in the next 3 years. I've been exploring MERN technology for about 1 year. As a person, I can work for a long time at a glance. I'm exploring new technologies like NEXT JS. I'm eager to learn AWS, TypeScript, Redux, and other backend technologies in 1 year.
-</p>
-
-<p align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="flex: 1; text-align: left;">
+    Hello, I'm Robin. Currently seeking a job or internship as a Full-stack developer. My main goal is to be a senior developer in the next 3 years. I've been exploring MERN technology for about 1 year. As a person, I can work for a long time at a glance. I'm exploring new technologies like NEXT JS. I'm eager to learn AWS, TypeScript, Redux, and other backend technologies in 1 year.
+  </p>
   <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
