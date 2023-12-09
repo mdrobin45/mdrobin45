@@ -47,6 +47,10 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/Mongoose.png" alt="icon" width="65" height="65" />
+      <br>Mongoose
+   </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/firebase.svg" alt="icon" width="65" height="65" />
       <br>Firebase
     </td>
@@ -57,8 +61,24 @@
   </tr>
   <tr>
    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/Github.svg" alt="icon" width="65" height="65" />
       <br>GitHub
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/html-.svg" alt="icon" width="65" height="65" />
+      <br>HTML5
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/css-3.svg" alt="icon" width="65" height="65" />
+      <br>CSS3
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/tailwind.svg" alt="icon" width="65" height="65" />
+      <br>Tailwind CSS
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/material-ui.svg" alt="icon" width="65" height="65" />
+      <br>Material UI
    </td>
   </tr>
 </table>
