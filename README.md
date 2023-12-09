@@ -16,15 +16,15 @@
   <p align="left">
     Hello, I'm Robin. Currently seeking a job or internship as a Full-stack developer. My main goal is to be a senior developer in the next 3 years. I've been exploring MERN technology for about 1 year. As a person, I can work for a long time at a glance. I'm exploring new technologies like NEXT JS. I'm eager to learn AWS, TypeScript, Redux, and other backend technologies in 1 year.
   </p>
-  <!-- <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 </div>
 
 ## <b> My GitHub Stats</b>
 
 <div>
-<a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" />
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p> -->
 <br>
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
