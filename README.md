@@ -80,5 +80,17 @@
       <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/f9fe2fa4d9425f4387c13df85d57811f2e0bd3e3/assets/images/material-ui.svg" alt="icon" width="65" height="65" />
       <br>Material UI
    </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/294f0eeff111d774fd965d28c9228a177151c1c1/assets/images/visual-studio-code.svg" alt="icon" width="65" height="65" />
+      <br>VS Code
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/294f0eeff111d774fd965d28c9228a177151c1c1/assets/images/postman.svg" alt="icon" width="65" height="65" />
+      <br>Postman
+   </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/294f0eeff111d774fd965d28c9228a177151c1c1/assets/images/ubuntu-icon.svg" alt="icon" width="65" height="65" />
+      <br>Ubuntu
+   </td>
   </tr>
 </table>
