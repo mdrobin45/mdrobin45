@@ -13,7 +13,7 @@
 
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
-  <p style="flex: 1; text-align: left;">
+  <p style="text-align: left;">
     Hello, I'm Robin. Currently seeking a job or internship as a Full-stack developer. My main goal is to be a senior developer in the next 3 years. I've been exploring MERN technology for about 1 year. As a person, I can work for a long time at a glance. I'm exploring new technologies like NEXT JS. I'm eager to learn AWS, TypeScript, Redux, and other backend technologies in 1 year.
   </p>
   <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
