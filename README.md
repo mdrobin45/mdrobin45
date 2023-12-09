@@ -22,14 +22,13 @@
 
 <div>
 <a align="left" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
-<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p> -->
 <br>
 
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/e10e332e881a57c52548bd5a5dc5ce407ab57509/assets/images/react.svg" alt="icon" width="65" height="65" />
@@ -99,3 +98,23 @@
    </td>
   </tr>
 </table>
+<br>
+<br>
+
+## <a href="https://github.com/mdrobin45/study-group-client">Study Group</a>
+
+This is a dynamic study group website that promotes collaborative learning among students and teachers. It facilitates knowledge sharing and evaluation through task assignments, fostering network growth and educational development.
+
+**Live Site:** https://group-study-robin45r.netlify.app/
+
+## <a href="https://github.com/mdrobin45/forumHub-client">ForumHub</a>
+
+ForumHub is an online forum website where users can share their thoughts and receive feedback from the community.With free user badges granted upon registration. Premium membership, facilitated by Stripe payment integration with additional benefits
+
+**Live Site:** https://forum-robin45.netlify.app
+
+## <a href="https://github.com/mdrobin45/carCraft-client">CarCraft</a>
+
+"Car Craft" is a car brand website facilitating the buying and selling of popular vehicles. The platform also offers a user-friendly dark mode for enhanced viewing. Importantly, personal pages are securely protected.
+
+**Live Site:** https://carcraft-c1a4d.web.app/
