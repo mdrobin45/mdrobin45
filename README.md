@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/github-banner.webp)
+![logo](https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/github-banner.webp)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <br>
@@ -27,11 +27,11 @@
 <table align="left">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/e10e332e881a57c52548bd5a5dc5ce407ab57509/assets/images/react.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/e10e332e881a57c52548bd5a5dc5ce407ab57509/assets/images/logo-javascript.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
