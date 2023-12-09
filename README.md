@@ -39,7 +39,7 @@
       <br>Node JS
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/8da310742fcc83ea52cd97721f3274b594bea44f/assets/images/expressjs-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/e8dfbd854a8c631cab06e57d56ba95ea504879ba/assets/images/expressjs-icon.svg" alt="icon" width="65" height="65" />
       <br>Express Js
     </td>
     <td align="center" width="96">
