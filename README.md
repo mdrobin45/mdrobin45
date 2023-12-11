@@ -21,7 +21,7 @@
 ## <b> My GitHub Stats</b>
 
 <a align="left" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Robin's GitHub Streak" /></a>
-<a align="right" href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrobin45&show_icons=true&theme=dark&locale=en&layout=compact" alt="robin" /></a>
+<a align="right" href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrobin45&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrobin45" /></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
