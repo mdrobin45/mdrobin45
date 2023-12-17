@@ -104,7 +104,7 @@
 
 This is a dynamic study group website that promotes collaborative learning among students and teachers. It facilitates knowledge sharing and evaluation through task assignments, fostering network growth and educational development.
 
-**Live Site:** https://group-study-robin45r.netlify.app/
+**Live Site:** https://group-study.surge.sh
 
 ## <a href="https://github.com/mdrobin45/forumHub-client">ForumHub</a>
 
