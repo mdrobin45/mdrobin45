@@ -98,29 +98,10 @@
 <br>
 <br>
 
-## <b> My Recent Projects</b>
-
-## <a href="https://github.com/mdrobin45/study-group-client">Study Group</a>
-
-This is a dynamic study group website that promotes collaborative learning among students and teachers. It facilitates knowledge sharing and evaluation through task assignments, fostering network growth and educational development.
-
-**Live Site:** https://group-study.surge.sh
-
-## <a href="https://github.com/mdrobin45/forumHub-client">ForumHub</a>
-
-ForumHub is an online forum website where users can share their thoughts and receive feedback from the community.With free user badges granted upon registration. Premium membership, facilitated by Stripe payment integration with additional benefits
-
-**Live Site:** https://forum-robin45.netlify.app
-
-## <a href="https://github.com/mdrobin45/carCraft-client">CarCraft</a>
-
-"Car Craft" is a car brand website facilitating the buying and selling of popular vehicles. The platform also offers a user-friendly dark mode for enhanced viewing. Importantly, personal pages are securely protected.
-
-**Live Site:** https://carcraft-c1a4d.web.app/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mdrobin45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin" height="30" width="40" /></a>
-<a href="mailto:robinrana4r@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/0028a9c33231b185860f7a723b6897a8229f549b/assets/images/gmail-icon.svg" alt="robin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdrobin45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/7b190f04cc7aae31c9c52693d1fb329e9d6ab627/assets/images/linkedin.svg" alt="robin" height="40" width="40" /></a>
+<a href="mailto:robinrana4r@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/7b190f04cc7aae31c9c52693d1fb329e9d6ab627/assets/images/email.svg" alt="robin" height="40" width="40" /></a>
 </p>
 <br>
+<a href="https://www.buymeacoffee.com/robin45r" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/buy-me-coffee.png" alt="robin" width="170"/></a>
