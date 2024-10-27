@@ -12,7 +12,7 @@
 ## <picture><img src = "https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<div align="center">
+<div>
   <p align="left">
     I'm Robin Rana, a dedicated web developer (JavaScript) with a strong background in the MERN stack (MongoDB, Express.js, React, Node.js). Currently, I'm focused on working in Backend Technologies. I'm eager to expand my expertise and dive deeper into advanced technologies in web development.
 
