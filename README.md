@@ -14,7 +14,9 @@
 <br>
 <div align="center">
   <p align="left">
-    Hello, I'm Robin. Currently seeking a job or internship as a Full-stack developer. My main goal is to be a senior developer in the next 3 years. I've been exploring MERN technology for about 1 year. As a person, I can work for a long time at a glance. I'm exploring new technologies like NEXT JS. I'm eager to learn AWS, TypeScript, Redux, and other backend technologies in 1 year.
+    I'm Robin Rana, a dedicated web developer (JavaScript) with a strong background in the MERN stack (MongoDB, Express.js, React, Node.js). Currently, I'm focused on working in Backend Technologies. I'm eager to expand my expertise and dive deeper into advanced technologies in web development.
+
+   One of my key strengths is my patience and persistence when it comes to troubleshooting and solving code issues. I approach every problem with determination, sticking with it until I've found a solution, no matter how long it takes. This reflects my deep passion for coding and my commitment to delivering the best possible results.
   </p>
 </div>
 
