@@ -1,4 +1,3 @@
-![logo](https://raw.githubusercontent.com/mdrobin45/mdrobin45/main/assets/images/github-banner.webp)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <br>
@@ -14,9 +13,9 @@
 <br>
 <div>
   <p align="left">
-    I'm Robin Rana, a dedicated web developer (JavaScript) with a strong background in the MERN stack (MongoDB, Express.js, React, Node.js). Currently, I'm focused on working in Backend Technologies. I'm eager to expand my expertise and dive deeper into advanced technologies in web development.
+    I'm Robin Rana, a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong focus on clean code and performance optimization.
 
-   One of my key strengths is my patience and persistence when it comes to troubleshooting and solving code issues. I approach every problem with determination, sticking with it until I've found a solution, no matter how long it takes. This reflects my deep passion for coding and my commitment to delivering the best possible results.
+Currently, I’m enhancing my problem-solving skills through Data Structures and Algorithms (DSA) to strengthen my ability to write efficient, scalable code.
   </p>
 </div>
 
